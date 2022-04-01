@@ -51,7 +51,7 @@ int sub(int number1, int number2)
 
 int multi(int number1, int number2)
 {
-	//TODO implementation
+	// this is my multiply method
 	return 0;
 }
 
